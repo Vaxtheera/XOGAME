@@ -1,4 +1,4 @@
-# XOGAME
+# XOGAME(Tic-tac-toe)
 
 This is a simple implementation of the Tic-Tac-Toe game written in Java. It allows two players to take turns marking spaces on a grid until one player wins or the game ends in a draw.
 
